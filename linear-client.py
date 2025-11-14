@@ -3,7 +3,7 @@ import requests
 import numpy as np
 import tensorflow as tf
 
-url = 'https://tensorflow-linear-model-fvap.onrender.com/v1/models/linear-model:predict'
+url = 'https://pomaremiliano-st-linearmodel.onrender.com'
 calUrl = 'https://pomaremiliano-calculator-api.onrender.com/calc'
 
 def predict():
